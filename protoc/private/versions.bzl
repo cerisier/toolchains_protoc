@@ -52,6 +52,18 @@ PROTOC_PLATFORMS = {
 
 # Synced from https://github.com/protocolbuffers/protobuf/releases:
 PROTOC_VERSIONS = {
+    "v37.0-rc1": {
+        "protoc-37.0-rc-1-linux-aarch_64.zip": "sha384-PyU0B5hVSF0vLe46d43kzbMfMNr+1Pf/+1ESF4B/hVabP5nkUj7GVBpWNiaV0q5C",
+        "protoc-37.0-rc-1-linux-ppcle_64.zip": "sha384-uFLvVcmroHx+QyekIQrtRs4pM0ZM6IZUA+D3A+AKbaWTZHSmHHS9CQ84ahZh7TrO",
+        "protoc-37.0-rc-1-linux-s390_64.zip": "sha384-4e2K1AvnUQzWIqgLtjGFG22RAkCmiys6dfDfLkZF+WIT/3H26/zDWOd1Pv2ANM1e",
+        "protoc-37.0-rc-1-linux-x86_32.zip": "sha384-ZTZQVspCXdgRY6cjzMLiwMkRvGqVoEQ0ZiH8KP6nEYql8iKS610zsyNKczQUwrM5",
+        "protoc-37.0-rc-1-linux-x86_64.zip": "sha384-ItzLYu0bjoBAXARfOWqN2f4y/FTWrHUypRet4nTUxYe+Uz1DxVjQ75OXg/4Xhjng",
+        "protoc-37.0-rc-1-osx-aarch_64.zip": "sha384-9ERj+vahY434xDZIaGnDLES+cgG4mOl2xQLhWrCUEXx+edVjLGJXRMwbotPpGChC",
+        "protoc-37.0-rc-1-osx-universal_binary.zip": "sha384-CdfdVdLTqgG/SXL0qCkaLm/IiAoZ1fxrS/sZ62IfdskQwAkuBjAtc/+AcybZUX6s",
+        "protoc-37.0-rc-1-osx-x86_64.zip": "sha384-fDs/8FF0eO8MUirmFlC1Ix6HA+Vaaged+7Ai4UuTRGhZ03GcXE0YrktIanuP82cn",
+        "protoc-37.0-rc-1-win32.zip": "sha384-eMH3Q0j55Trux6jpU2D2fah2foImxD3GIhLRpwuBhALjcendozRsBOxc3epmAGYf",
+        "protoc-37.0-rc-1-win64.zip": "sha384-9Bdrz+Ghi+fc0Zz+tbqFamYvKofGzmtbXrA9tAPBo0THH1cROWfIZdVTL7zDXMZI",
+    },
     "v29.0-rc3": {
         "protoc-29.0-rc-3-linux-aarch_64.zip": "sha384-NxW815e4bZ0qLnO9GxzUdkaoDQClQUdrv7aPB6qMMCG8hScx5ob43LSbsYVtcFhi",
         "protoc-29.0-rc-3-linux-ppcle_64.zip": "sha384-teeXNAu6p1em3GVzaxD2RcMLSY7SBiIBt+FC0mooiTrz/MxZmJnwDzA7W3Gq7Hlj",
